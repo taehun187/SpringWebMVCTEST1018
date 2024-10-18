@@ -31,3 +31,16 @@
    spring.datasource.username=root
    spring.datasource.password=비밀번호
 
+3. **서버 실행**: EmbeddedTomcatApp 클래스를 실행하여 서버를 시작합니다.
+
+4. **웹 브라우저에서 접속**: 브라우저에서 http://localhost:8080/posts에 접속하여 게시판 기능을 확인합니다.
+
+
+# 사용법
+
+게시글 목록에서 "Create New Post" 버튼을 클릭하여 새 게시글을 작성할 수 있습니다.
+각 게시글의 "View" 버튼을 클릭하여 게시글의 상세 내용을 확인할 수 있습니다.
+게시글을 수정하거나 삭제할 수 있는 기능도 제공됩니다.
+댓글을 추가하고 삭제할 수 있는 기능도 제공됩니다.
+
+
